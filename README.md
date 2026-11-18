@@ -3,61 +3,71 @@
 ## RONDA 1 — Compactar una fila (quitar los huecos)
 ### ROJO
 <img src="screnshoots/AC3-R1-ROJO.png" width="350">
+
 ### VERDE
 <img src="screenshoots/AC3-R1-VERDE.png" width="350">
 
 ## RONDA 2 — Fusionar pares adyacentes iguales
-## ROJO
+### ROJO
 <img src="screenshoots/AC3-R2-ROJO.png" width="350">
-## VERDE
+
+### VERDE
 <img src="screenshoots/AC3-R2-VERDE.png" width="350">
 
 ## RONDA 3 — Mover una fila completa hacia la izquierda
-## ROJO
+### ROJO
 <img src="screenshoots/AC3-R3-ROJO.png" width="350">
-## VERDE
+
+### VERDE
 <img src="screenshoots/AC3-R3-VERDE.png" width="350">
 
 ## RONDA 4 — Mover la cuadrícula completa hacia la izquierda
-## ROJO
+### ROJO
 <img src="screenshoots/AC3-R4-ROJO.png" width="350">
-## VERDE
+
+### VERDE
 <img src="screenshoots/AC3-R4-VERDE.png" width="350">
 
 ## RONDA 5 — Mover hacia la derecha (reutilizando la lógica base)
-## ROJO
+### ROJO
 <img src="screenshoots/AC3-R5-ROJO.png" width="350">
-## VERDE
+
+### VERDE
 <img src="screenshoots/AC3-R5-VERDE.png" width="350">
 
 ## RONDA 6 — Mover arriba y abajo (transponer la cuadrícula)
-## ROJO
+### ROJO
 <img src="screenshoots/AC3-R6-ROJO.png" width="350">
-## VERDE
+
+### VERDE
 <img src="screenshoots/AC3-R6-VERDE.png" width="350">
 
 ## RONDA 7 — Agregar una ficha nueva al azar
-## ROJO
+### ROJO
 <img src="screenshoots/AC3-R7-ROJO.png" width="350">
-## VERDE
+
+### VERDE
 <img src="screenshoots/AC3-R7-VERDE.png" width="350">
 
 ## RONDA 8 — Detectar si ya no hay movimientos posibles
-## ROJO
+### ROJO
 <img src="screenshoots/AC3-R8-ROJO.png" width="350">
-## VERDE
+
+### VERDE
 <img src="screenshoots/AC3-R8-VERDE.png" width="350">
 
 ## RONDA 9 — Detectar la victoria
-## ROJO
+### ROJO
 <img src="screenshoots/AC3-R9-ROJO.png" width="350">
-## VERDE
+
+### VERDE
 <img src="screenshoots/AC3-R9-VERDE.png" width="350">
 
 ## RONDA 10 — MotorJuego: integrar todo (puntaje, turnos, victoria/derrota)
-## ROJO
+### ROJO
 <img src="screenshoots/AC3-R10-ROJO.png" width="350">
-## VERDE
+
+### VERDE
 <img src="screenshoots/AC3-R10-VERDE.png" width="350">
 
 ## Prueba de integración: una partida completa
